@@ -2,6 +2,6 @@
 yum_config_file: /etc/yum.conf
 yum_config_owner: root
 yum_config_group: root
-um_config_mode: 0664
+yum_config_mode: 0664
 
 yum_os_supported: yes
